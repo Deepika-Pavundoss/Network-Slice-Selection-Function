@@ -1,0 +1,2 @@
+input = [[1, "AR Gaming"],[2, "IoT Sensor"],[8, "Smart City Monitoring"],[4, "Industrial Automation"],[2, "Live Streaming"],[2, "Media Streaming"],[1, "IoT Sensor"],
+ [1, "Video Conferencing"],[2, "Energy Grid Monitoring"],[5, "VR Streaming"],[6, "Asset Tracking"],[8, "Smart City Monitoring"],[4, "Traffic Management"],[3,"IoT Sensor"]]
